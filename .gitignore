@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/pdf_modifier/.vs/pdf_modifier
+/pdf_modifier/bin/Debug/net6.0
+/pdf_modifier/obj
